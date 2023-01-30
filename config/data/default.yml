@@ -1,0 +1,8 @@
+login:
+  username: standard_user
+  password: secret_sauce
+
+checkout_info:
+  firstname: Standard
+  lastname: User
+  postalcode: 78759
